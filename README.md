@@ -1,0 +1,1 @@
+This project presents an advanced Semantic-Based Plagiarism Detection System that goes beyond traditional text matching by analyzing the meaning of the content using Natural Language Processing (NLP) techniques. Unlike basic plagiarism tools that rely on exact word matches, this system detects paraphrased and contextually similar content.
